@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuja-tatpuje
 - 👀 I’m interested in learning,development & contribute
 - 🌱 I’m currently learning Data Structures and algorithms & development
-- 💞️ I’m looking to collaborate on data str
+- 💞️ I’m looking to collaborate on data structures and java based systems.
 - 📫 How to reach me tatpuje.anu@gmail.com
 
 <!---
